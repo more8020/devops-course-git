@@ -1,0 +1,4 @@
+It is a file from different directory
+after "git clone" from a different diretory
+
+git clone https://github.com/more8020/devops-course-git.git
